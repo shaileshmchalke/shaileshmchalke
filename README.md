@@ -76,13 +76,11 @@ and freelance consulting engagements.
 
 | # | Repository | What It Solves | Stack |
 |---|-----------|----------------|-------|
-| 1 | [🔄 oracle-to-snowflake-migration](https://github.com/shaileshmchalke/oracle-to-snowflake-migration) | Full migration — schema conversion, validation, RBAC | Snowflake · dbt · ADF · SnowSQL |
-| 2 | [💰 snowflake-cost-optimization-toolkit](https://github.com/shaileshmchalke/snowflake-cost-optimization-toolkit) | FinOps — warehouse tuning, 30% credit reduction | SQL · Python · Streamlit |
-| 3 | [⚡ snowflake-etl-pipeline-aws](https://github.com/shaileshmchalke/snowflake-etl-pipeline-aws) | S3 → Snowflake, 10M+ records/day, Airflow orchestrated | Snowpipe · dbt · Airflow |
-| 4 | [🏥 healthcare-hipaa-rbac-snowflake](https://github.com/shaileshmchalke/healthcare-hipaa-rbac-snowflake) | *Case Study* — HIPAA architecture, Dynamic Masking | Snowflake · Python |
-| 5 | [🐍 snowpark-python-optimization](https://github.com/shaileshmchalke/snowpark-python-optimization) | *Case Study* — Snowpark UDFs vs SQL procedures | Snowpark · Python |
-| 6 | [🏔️ snowflake-iceberg-lakehouse-strategy](https://github.com/shaileshmchalke/snowflake-iceberg-lakehouse-strategy) | *Case Study* — Iceberg tables & Lakehouse architecture | Snowflake · Iceberg |
-| 7 | [🤖 snowflake-cortex-ai-data-assistant](https://github.com/shaileshmchalke/snowflake-cortex-ai-data-assistant) | *Case Study* — AI assistant with Cortex LLM + NL-to-SQL | Snowflake Cortex · SQL |
+| 1 | [🔄 sqlserver-to-snowflake-migration](https://github.com/shaileshmchalke/sqlserver-to-snowflake-migration) | **Master Project:** Full automation of SQL Server migration, schema conversion, and data validation. | Snowflake · Python · ADF |
+| 2 | [💰 snowflake-finops-toolkit](https://github.com/shaileshmchalke/snowflake-finops-toolkit) | **Master Project:** Real-time credit monitoring & warehouse optimization to reduce costs by 30%. | SQL · Python · Streamlit |
+| 3 | [⚡ modern-elt-pipeline-dbt-adf](https://github.com/shaileshmchalke/modern-elt-pipeline-dbt-adf) | **Master Project:** Medallion architecture (Bronze/Silver/Gold) for BFSI data modeling. | Snowflake · dbt · ADF |
+| 4 | [🏥 healthcare-hipaa-rbac-audit](https://github.com/shaileshmchalke/healthcare-hipaa-rbac-audit) | *Case Study:* Architecture for secure PII handling and dynamic masking. | Snowflake Security |
+| 5 | [🏔️ snowflake-iceberg-lakehouse](https://github.com/shaileshmchalke/snowflake-iceberg-lakehouse) | *Case Study:* Strategy for implementing Iceberg tables for cost-effective storage. | Iceberg · Snowflake |
 
 ---
 
