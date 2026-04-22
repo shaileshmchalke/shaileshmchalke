@@ -97,7 +97,7 @@ and freelance consulting engagements.
 ## 📫 Let's Talk
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaileshchalke">
+  <a href="[https://www.linkedin.com/in/shaileshchalke](https://www.linkedin.com/in/shailesh-chalke/)">
     <img src="https://img.shields.io/badge/LinkedIn-shaileshchalke-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   &nbsp;
