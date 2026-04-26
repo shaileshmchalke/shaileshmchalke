@@ -76,7 +76,7 @@ and freelance consulting engagements.
 
 | # | Repository | What It Solves | Stack |
 |---|-----------|----------------|-------|
-| 1 | [🔄 sqlserver-to-snowflake-migration](https://github.com/shaileshmchalke/sqlserver-to-snowflake-migration) | **Master Project:** Full automation of SQL Server migration, schema conversion, and data validation. | Snowflake · Python · ADF |
+| 1 | [🔄 sqlserver-to-snowflake-migration](https://github.com/shaileshmchalke/sql-server-to-snowflake-migration) | **Master Project:** Full automation of SQL Server migration, schema conversion, and data validation. | Snowflake · Python · ADF |
 | 2 | [💰 snowflake-finops-toolkit](https://github.com/shaileshmchalke/snowflake-finops-toolkit) | **Master Project:** Real-time credit monitoring & warehouse optimization to reduce costs by 30%. | SQL · Python · Streamlit |
 | 3 | [⚡ modern-elt-pipeline-dbt-adf](https://github.com/shaileshmchalke/modern-elt-pipeline-dbt-adf) | **Master Project:** Medallion architecture (Bronze/Silver/Gold) for BFSI data modeling. | Snowflake · dbt · ADF |
 | 4 | [🏥 healthcare-hipaa-rbac-audit](https://github.com/shaileshmchalke/healthcare-hipaa-rbac-audit) | *Case Study:* Architecture for secure PII handling and dynamic masking. | Snowflake Security |
