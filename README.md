@@ -1,35 +1,33 @@
 <h1 align="center">Hey, I'm Shailesh Chalke 👋</h1>
 
 <p align="center">
-  <b>Senior Snowflake Data Engineer · 13 Years in Data · Pune, India</b><br/>
+  <b>Snowflake Data Engineer · 10 Yrs IT · 5 Yrs Snowflake · Pune, India</b><br/>
   <i>I migrate legacy Oracle/SQL Server systems to Snowflake — faster, cheaper, cleaner.</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=29B5E8&center=true&vCenter=true&width=650&lines=Senior+Snowflake+Data+Engineer+%E2%9D%84%EF%B8%8F;13+Years+IT+%7C+5%2B+Years+Snowflake;Oracle+%2F+SQL+Server+%E2%86%92+Snowflake+Migration;Cut+Cloud+Costs+30%25+%7C+Pipelines+70%25+Faster;BFSI+%26+Healthcare+Domain+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=29B5E8&center=true&vCenter=true&width=650&lines=Snowflake+Data+Engineer+%E2%9D%84%EF%B8%8F;10+Yrs+IT+%7C+5%2B+Yrs+Snowflake;Oracle+%2F+SQL+Server+%E2%86%92+Snowflake+Migration;Cut+Cloud+Costs+30%25+%7C+Pipelines+8x+Faster;Open+to+Data+Engineering+Roles" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I've spent 8 years at MMF Systems keeping healthcare data 
-clean and compliant, then moved into full Snowflake 
-engineering at Azentio — leading a 3TB+ Oracle migration 
-for a BFSI client. Now I consult independently, mostly 
-fixing what others built too fast, or building it right 
-from scratch.
+I've spent 8 years building and maintaining large-scale data
+pipelines, then moved into full Snowflake engineering —
+leading a 3TB+ Oracle migration and modernizing legacy
+batch systems into dbt-based ELT pipelines.
 
 Things I'm consistently good at:
-- Untangling Oracle/SQL Server legacy systems and 
+- Untangling Oracle/SQL Server legacy systems and
   landing them cleanly in Snowflake
-- Finding the warehouse settings silently burning 
-  30-40% of your Snowflake bill  
-- Building dbt pipelines the next engineer 
+- Finding the warehouse settings silently burning
+  30-40% of your Snowflake bill
+- Building dbt pipelines the next engineer
   won't have to rewrite
 
-**Currently open to:** Senior Snowflake roles (full-time) 
-and freelance consulting engagements.
+**Currently open to:** Snowflake Data Engineer roles
+(full-time or contract) across all industries.
 
 ---
 
@@ -78,8 +76,8 @@ and freelance consulting engagements.
 |---|-----------|----------------|-------|
 | 1 | [🔄 sqlserver-to-snowflake-migration](https://github.com/shaileshmchalke/sql-server-to-snowflake-migration) | **Master Project:** Full automation of SQL Server migration, schema conversion, and data validation. | Snowflake · Python · ADF |
 | 2 | [💰 snowflake-finops-toolkit](https://github.com/shaileshmchalke/snowflake-finops-toolkit) | **Master Project:** Real-time credit monitoring & warehouse optimization to reduce costs by 30%. | SQL · Python · Streamlit |
-| 3 | [⚡ modern-elt-pipeline-dbt-adf](https://github.com/shaileshmchalke/modern-elt-pipeline-dbt-adf) | **Master Project:** Medallion architecture (Bronze/Silver/Gold) for BFSI data modeling. | Snowflake · dbt · ADF |
-| 4 | [🏥 healthcare-hipaa-rbac-audit](https://github.com/shaileshmchalke/healthcare-hipaa-rbac-audit) | *Case Study:* Architecture for secure PII handling and dynamic masking. | Snowflake Security |
+| 3 | [⚡ modern-elt-pipeline-dbt-adf](https://github.com/shaileshmchalke/modern-elt-pipeline-dbt-adf) | **Master Project:** Medallion architecture (Bronze/Silver/Gold) for scalable data transformation. | Snowflake · dbt · ADF |
+| 4 | [🔐 enterprise-rbac-data-masking](https://github.com/shaileshmchalke/healthcare-hipaa-rbac-audit) | *Case Study:* Enterprise RBAC hierarchy + Dynamic Data Masking for column-level data security. | Snowflake Security |
 | 5 | [🏔️ snowflake-iceberg-lakehouse](https://github.com/shaileshmchalke/snowflake-iceberg-lakehouse) | *Case Study:* Strategy for implementing Iceberg tables for cost-effective storage. | Iceberg · Snowflake |
 
 ---
@@ -92,6 +90,6 @@ and freelance consulting engagements.
   </a>
   &nbsp;
   <a href="mailto:shailesh.chalke.data@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-shailesh.chalke.data%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
