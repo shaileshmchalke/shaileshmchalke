@@ -131,12 +131,6 @@ A strategy and reference setup for Iceberg tables on Snowflake — evaluating wh
 </p>
 
 <p align="center">
-  <a href="https://github.com/shaileshmchalke">
-    <img src="https://github-profile-trophy.vercel.app/?username=shaileshmchalke&theme=flat&no-frame=true&column=4&margin-w=10" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaileshmchalke&color=29B5E8&style=flat-square&label=Profile+Views"/>
 </p>
 
